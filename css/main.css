@@ -101,14 +101,17 @@ main {
 
     main {
         text-align: center;
+        border-radius: 0;
     }
 
     .subscription-group {
         flex-direction: column;
+        border-radius: 0;
     }
 
     .subscription {
         width: 100%;
+        border-radius: 0;
     }
 
     .signup {
@@ -118,5 +121,6 @@ main {
 
     .subscription-info {
         width: 100%;
+        border-radius: 0;
     }
 }
